@@ -258,43 +258,35 @@ https://7pal.short.gy/ssportspl
 #EXTINF:-1 tvg-id="Sky Sports Cricket HD" tvg-logo="https://i.postimg.cc/28H4Frg2/Cricket.png" group-title="UK | Sports",UK | Sky Sports Cricket HD
 https://7pal.short.gy/ssportscrk
 
-#EXTINF:-1 tvg-id="GEO TV" tvg-logo="https://i.postimg.cc/TYnVnc3j/GEOTV.png" group-title="IN | Asian",IN | GEO TV HD
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="&TV" tvg-logo="https://i.postimg.cc/fbCsMCkr/TV.png" group-title="IN | Asian",IN | &TV HD
-https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-#EXTINF:-1 tvg-id="B4U Kadak" tvg-logo="https://i.postimg.cc/P5FG2LsX/B4UKadak.png" group-title="IN | Asian",IN | B4U Kadak
-https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/1080p/index.m3u8
-#EXTINF:-1 tvg-id="B4U Movies" tvg-logo="https://i.postimg.cc/nhw80sbc/B4UMovies.png" group-title="IN | Asian",IN | B4U Movies
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/1080p/index.m3u8
-#EXTINF:-1 tvg-id="SONYMAX" tvg-logo="https://i.postimg.cc/d0MWMRH2/SONY-MAX.png" group-title="IN | Asian",IN | Sony MAX
-http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6625/index.m3u8
-#EXTINF:-1 tvg-id="SONYMAX" tvg-logo="https://i.postimg.cc/d0MWMRH2/SONY-MAX.png" group-title="IN | Asian",IN | Sony MAX HD
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-hd/index.m3u8
-#EXTINF:-1 tvg-id="SONYPIX" tvg-logo="https://i.postimg.cc/nL3GF6nH/Sony-Pix.png" group-title="IN | Asian",IN | Sony PIX HD
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/index.m3u8
-#EXTINF:-1 tvg-id="ZCINEMA" tvg-logo="https://i.postimg.cc/TwN74zZj/Zee-Cinema.png" group-title="IN | Asian",IN | Zee Cinema HD
-https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="BBCOneLondonHD.uk" tvg-logo="https://i.postimg.cc/m26KtHDn/BBC1.png" group-title="UK | Back Up",UK | BBC 1
-https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
-#EXTINF:-1 tvg-id="BBCTwoHD" tvg-logo="https://i.postimg.cc/ZKDXCdRX/BBC2.png" group-title="UK | Back Up",UK | BBC 2
-https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
-#EXTINF:-1 tvg-id="BBC Three HD" tvg-logo="https://i.postimg.cc/tgd1m00X/bbcthree.png" group-title="UK | Back Up",UK | BBC Three
-https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
-#EXTINF:-1 tvg-id="BBC Four HD" tvg-logo="https://i.postimg.cc/Bb3tTM7v/bbcfour.png" group-title="UK | Back Up",UK | BBC Four
-https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
-#EXTINF:-1 tvg-id="Channel4" tvg-logo="https://i.postimg.cc/d3Sm798g/Channel4.png" group-title="UK | Back Up",UK | C4
-https://streamer.nexyl.uk/memfs/afc585f8-628b-4582-b6ea-82040d911a0b.m3u8
-#EXTINF:-1 tvg-id="5uk" tvg-logo="https://i.postimg.cc/d1CKNW0V/Channel5.png" group-title="UK | Back Up",UK | C5
-https://streamer.nexyl.uk/memfs/20ac5d14-b5dd-4c84-b5fb-4a7ad854c180.m3u8
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.postimg.cc/VsCqhz7r/ITV2.png" group-title="UK | Back Up",UK | ITV2
-https://streamer.nexyl.uk/memfs/0027fe9a-bc29-448b-bdce-d3913b8174d5.m3u8
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-logo="https://i.postimg.cc/cCR8L4j9/ITV3.png" group-title="UK | Back Up",UK | ITV3
-https://streamer.nexyl.uk/memfs/18c4fc40-f607-468e-b6c1-741c756503bd.m3u8
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-logo="https://i.postimg.cc/9X7dkcx4/ITV4.png" group-title="UK | Back Up",UK | ITV4
-https://streamer.nexyl.uk/memfs/fd7731a0-2169-4827-9f2a-52c491246d7b.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-logo="https://i.postimg.cc/jdv2MTGW/TNTSports2.png" group-title="UK | Back Up",UK | TNT Sports 2 HD
-http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2506/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTVPlus1.cn@SD",CCTV+ 1 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTVPlus2.cn@SD",CCTV+ 2 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV4America.cn@SD",CCTV-4 America (1080p)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-id="CCTVBilliards.cn@HD",CCTV-Billiards (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTVCultureofQuality.cn@SD",CCTV-Culture of Quality (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTVGolfTennis.cn@HD",CCTV-Golf & Tennis (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTVHealth.cn@HD",CCTV-Health (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTVNostalgiaTheater.cn@HD",CCTV-Nostalgia Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD",CCTV-Storm Football (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTVStormMusic.cn@HD",CCTV-Storm Music (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTVStormTheater.cn@HD",CCTV-Storm Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn@HD",CCTV-The First Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn@HD",CCTV-Weapon & Technology (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn@SD",CCTV-Women's Fashion (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTVWorldGeography.cn@SD",CCTV-World Geography (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
