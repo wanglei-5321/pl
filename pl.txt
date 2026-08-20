@@ -253,26 +253,11 @@ https://hls.iill.top/api/TNT-Sports-2/index.m3u8
 https://hls.iill.top/api/TNT-Sports-3/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://i.postimg.cc/V6j7Q3xg/TNTSports4.png" group-title="UK | Sports",UK | TNT Sports 4 HD
 https://hls.iill.top/api/TNT-Sports-4/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sports Main Event HD" tvg-logo="https://i.postimg.cc/SRY0C6Fd/main.png" group-title="UK | Sports",UK | Sky Sports Main Event HD
-https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 tvg-id="Sky Sports Main Event Ultra HDR" tvg-logo="https://i.postimg.cc/SRY0C6Fd/main.png" group-title="UK | Sports",UK | Sky Sports Main Event UHD
-https://freelivtvstrshare.vvishwas042.workers.dev/play.m3u8?id=384215
-#EXTINF:-1 tvg-id="Sky Sports Premier League HD" tvg-logo="https://i.postimg.cc/sxGF7Ydc/premier.png" group-title="UK | Sports",UK | Sky Sports Premier League HD
-https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-id="Sky Sports Cricket HD" tvg-logo="https://i.postimg.cc/28H4Frg2/Cricket.png" group-title="UK | Sports",UK | Sky Sports Cricket HD
-https://7pal.short.gy/ssportscrk
-
-
 #EXTINF:-1 tvg-id="SkySp.Fball.uk" tvg-name="Sky Sports Football" tvg-logo="https://images.open-epg.com/x469.png" group-title="UK | Sports",UK | Sky Sports Football
 https://restream-live.realiptv.to/09145054/65339468/30822
-
-
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://images.open-epg.com/x468.png" group-title="UK | Sports",UK | Sky Sports Main Event
 https://restream-live.realiptv.to/09145054/65339468/2185
-
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://images.open-epg.com/x482.png" group-title="UK | Sports",UK | Sky Sports News
 https://restream-live.realiptv.to/09145054/65339468/2183
-
-
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://images.open-epg.com/x467.png" group-title="UK | Sports",UK | Sky Sports Premier League
 https://restream-live.realiptv.to/09145054/65339468/102182
